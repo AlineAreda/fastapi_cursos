@@ -9,3 +9,4 @@ class Curso(BaseModel):
   horas: int
   
 
+
